@@ -35,7 +35,7 @@ This Privacy Notice for Dmitry Berezkin ("**we**," "**us**," or "**our**"), de
 
 **What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](https://coffeescaleapp.kofezavr.ru/privacypolicy/#privacyrights).
 
-**How do you exercise your rights?** The easiest way to exercise your rights is by submitting a [data subject access request](https://app.termly.io/notify/b5601a3a-2b02-48b3-b850-97f0e85b6674), or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+**How do you exercise your rights?** The easiest way to exercise your rights is by emailing us at info@kofezavr.ru. We will consider and act upon any request in accordance with applicable data protection laws.
 
 Want to learn more about what we do with any information we collect? [Review the Privacy Notice in full](https://coffeescaleapp.kofezavr.ru/privacypolicy/#toc).
 
@@ -78,7 +78,7 @@ We collect personal information that you voluntarily provide to us when you exp
 **Application Data.** If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
 - _Mobile Device Access._ We may request access or permission to certain features from your mobile device, including your mobile device's bluetooth, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
 
-This information is primarily needed to maintain the security and operation of our application(s), for troubleshooting, and for our internal analytics and reporting purposes.
+This information is primarily needed to maintain the security and operation of our application(s) and for troubleshooting. The application contains no analytics, crash reporting, or advertising software, and no third-party SDK of any kind.
 
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
@@ -232,7 +232,7 @@ Depending upon the state where you live, you may also have the following rights:
 
 **How to Exercise Your Rights**
 
-To exercise these rights, you can contact us by submitting a [data subject access request](https://app.termly.io/notify/b5601a3a-2b02-48b3-b850-97f0e85b6674), by emailing us at info@kofezavr.ru, or by referring to the contact details at the bottom of this document. 
+To exercise these rights, you can contact us by emailing us at info@kofezavr.ru, or by referring to the contact details at the bottom of this document. 
 
 Under certain US state data protection laws, you can designate an authorized agent to make a request on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with applicable laws.  
 
@@ -300,4 +300,4 @@ Russia
 
 ## 12. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU? {#request}
 
-Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a [data subject access request](https://app.termly.io/notify/b5601a3a-2b02-48b3-b850-97f0e85b6674).
+Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please email us at info@kofezavr.ru.
