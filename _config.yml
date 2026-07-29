@@ -37,7 +37,7 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Bluetooth Scales
-    description                           : Works with Futula Kitchen Scale 3, LFScale CK811 or CK811BLE.
+    description                           : Works with Futula Kitchen Scale 3 (aka LFScale CK811 and CK811BLE), KP2048B, TIMEMORE Dot, and Xiaomi HOTO Smart Kitchen Scale.
     fontawesome_icon_name                 : wifi
 
   - title                                 : Timer
