@@ -82,7 +82,7 @@ This information is primarily needed to maintain the security and operation of o
 
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
-**Xiaomi account sign-in.** Some supported scales (Hoto FE95) only transmit weight inside an encrypted Bluetooth session. The session key is issued by Xiaomi's cloud, so the application asks you to sign in with your Xiaomi account.
+**Xiaomi account sign-in.** Some supported scales (Xiaomi HOTO Smart Kitchen Scale) only transmit weight inside an encrypted Bluetooth session. The session key is issued by Xiaomi's cloud, so the application asks you to sign in with your Xiaomi account.
 
 Your Xiaomi login, password, and two-factor codes are sent over HTTPS directly to Xiaomi's servers. We do not operate any server of our own, and we never receive, store, or transmit these credentials.
 
