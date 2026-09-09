@@ -37,7 +37,7 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Bluetooth Scales
-    description                           : Works with Futula Kitchen Scale 3 (aka LFScale CK811 and CK811BLE), KP2048B, TIMEMORE Dot, and Xiaomi HOTO Smart Kitchen Scale.
+    description                           : Works with 17 scale models. Tested on hardware - Acaia Pearl, Futula Kitchen Scale 3 (aka LFScale CK811 and CK811BLE), KP2048B, TIMEMORE Dot, and Xiaomi HOTO Smart Kitchen Scale. Protocol support, feedback welcome - Acaia Lunar/Pyxis/Cinco, Atomax Skale II, BOOKOO Themis, Decent Scale, Half Decent, EspressiScale, DiFluid Microbalance/Ti, DIY Coffee Scale, Eclair, Eureka Precisa, Felicita Arc, IKAPE A01, INSMART 863A, Tencent (DSD TECH), TIMEMORE Basic 3, TIMEMORE Black Mirror, Varia AKU, WeighMyBru.
     fontawesome_icon_name                 : wifi
 
   - title                                 : Timer
