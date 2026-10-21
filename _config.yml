@@ -6,7 +6,7 @@ ios_app_id                                : 6702016819                          
 ios_app_country                           : ru                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             : https://apps.apple.com/ru/app/kofezavr-scale/id6702016819                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://github.com/wdrs/FutulaCoffeeScale/releases                                          # Enter Google Play Store URL.
+playstore_link                            : https://github.com/securny/beanzen/releases                                          # Enter Google Play Store URL.
 presskit_download_link                    : # https://coffeescaleapp.kofezavr.ru                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
@@ -37,7 +37,7 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Bluetooth Scales
-    description                           : Works with 17 scale models. Tested on hardware - Acaia Pearl, Futula Kitchen Scale 3 (aka LFScale CK811 and CK811BLE), KP2048B, TIMEMORE Dot, and Xiaomi HOTO Smart Kitchen Scale. Protocol support, feedback welcome - Acaia Lunar/Pyxis/Cinco, Atomax Skale II, BOOKOO Themis, Decent Scale, Half Decent, EspressiScale, DiFluid Microbalance/Ti, DIY Coffee Scale, Eclair, Eureka Precisa, Felicita Arc, IKAPE A01, INSMART 863A, Tencent (DSD TECH), TIMEMORE Basic 3, TIMEMORE Black Mirror, Varia AKU, WeighMyBru.
+    description                           : Works with 17 scale models. Tested on hardware - Acaia Pearl, BOOKOO Themis Ultra, DiFluid Microbalance and Microbalance Ti, Futula Kitchen Scale 3 (aka LFScale CK811, LEFU CK811 and CK811BLE), KP2048B, TIMEMORE Dot, and Xiaomi HOTO Smart Kitchen Scale. Protocol support, feedback welcome - Acaia Lunar/Pyxis/Cinco, Atomax Skale II, BOOKOO Themis Mini, Decent Scale, Half Decent, EspressiScale, DIY Coffee Scale, Eclair, Eureka Precisa, Felicita Arc, IKAPE A01, INSMART 863A, Tencent (DSD TECH), TIMEMORE Basic 3, TIMEMORE Black Mirror, Varia AKU, WeighMyBru.
     fontawesome_icon_name                 : wifi
 
   - title                                 : Timer
@@ -45,7 +45,7 @@ features                                  :
     fontawesome_icon_name                 : stopwatch
     
   - title                                 : Weight
-    description                           : Gets weight values in gramms from the scale via bluetooth up to 4 times per second.
+    description                           : Gets weight values in grams from the scale via Bluetooth in real time.
     fontawesome_icon_name                 : dumbbell
 
   - title                                 : Flowrate
@@ -64,12 +64,28 @@ features                                  :
     description                           : Provides the ability to automatically start the timer with the first pour.
     fontawesome_icon_name                 : play
 
+  - title                                 : Auto-stop
+    description                           : Lift the cup off the scale when the brew is done and the timer pauses by itself. The time and the charts end at the moment the cup left the scale.
+    fontawesome_icon_name                 : stop-circle
+
+  - title                                 : Hold the Weight
+    description                           : Brewing with a lid, like in a French press or a Clever Dripper? Tap HOLD once all the water is in. The weight freezes, and the lid stays out of the weight, the brew ratio and the charts. Tap LIVE to see the live weight again.
+    fontawesome_icon_name                 : lock
+
+  - title                                 : Scale Timer and Buttons
+    description                           : On scales with a built-in timer, START, PAUSE and RESET in the app start, stop and reset the timer on the scale. On Acaia, BOOKOO Themis Ultra, Decent and Varia scales the timer button on the scale controls the brew in the app.
+    fontawesome_icon_name                 : sync-alt
+
+  - title                                 : Designed for One Hand
+    description                           : Every control sits at the bottom of the screen, in the reach of your thumb - no need to shift the phone in your hand in the middle of a pour.
+    fontawesome_icon_name                 : hand-point-up
+
   - title                                 : Brewing Profiles
     description                           : Draws graphs of your brewing profiles for espresso, pour-overs and drip coffee.
     fontawesome_icon_name                 : clipboard
 
   - title                                 : Android Version
-    description                           : Has a similar application for Android devices. Available <a href="https://github.com/wdrs/FutulaCoffeeScale/releases">here</a>.
+    description                           : Has a similar application for Android devices - BeanZen. Available <a href="https://github.com/securny/beanzen/releases">here</a>.
     fontawesome_icon_name                 : robot
 
   - title                                 : # New Feature Title
