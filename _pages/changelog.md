@@ -6,6 +6,13 @@ include_in_header: true
 
 # What's New
 
+## Version 1.45
+
+- The brew screen adapts to both iPhone Duo displays. Open the phone for wider weight and flow rate charts.
+- With VoiceOver on, hear a tick each second while the timer runs. A distinct single tone marks 5, 15, 25 seconds and so on, while a double tick marks every 10 seconds. VoiceOver reads the elapsed time every 30 seconds and the weight in 10 g increments. Focus Weight and choose Read brew status to hear your progress or repeat the result after finishing.
+- A brief bump during pouring is less likely to spike the weight or flow chart. Real drops in weight are shown.
+- For Felicita scales, the app requests confirmation of the tare and timer reset commands to help prevent missed tares.
+
 ## Version 1.44
 
 - While you pour, the left button now reads HOLD. Tap it to freeze the weight: put a lid on the brewer and the lid stays out of the weight, the brew ratio and the charts. A lock appears next to WEIGHT. Tap LIVE to see the live weight again.

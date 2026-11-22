@@ -59,6 +59,14 @@ features                                  :
   - title                                 : Charts
     description                           : When you start the timer it draws total weight chart and flowrate chart.
     fontawesome_icon_name                 : chart-line
+
+  - title                                 : iPhone Duo
+    description                           : Brew on the outer display or open your phone for wider weight and flow rate charts. When there is enough room, the five readings fit in a single row.
+    fontawesome_icon_name                 : mobile-alt
+
+  - title                                 : VoiceOver While Brewing
+    description                           : With VoiceOver on, hear timer ticks, elapsed time every 30 seconds and weight in 10 g increments while you brew. Focus Weight and choose Read brew status for an update or to repeat the result after finishing.
+    fontawesome_icon_name                 : universal-access
   
   - title                                 : Autostart
     description                           : Provides the ability to automatically start the timer with the first pour.
